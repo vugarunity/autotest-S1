@@ -1,3 +1,5 @@
+//packagae seminar;
+//аналогично в остальных тестовых классах
 package java.seminar;
 
 import org.junit.jupiter.api.BeforeAll;
